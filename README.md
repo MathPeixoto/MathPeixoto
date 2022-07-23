@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Computer Vision projects at Neobpo](https://neobpo.com.br/)
 
-- 🌱 I’m currently learning **React and Node.js with Typescript**
+- 🌱 I’m currently learning **React, Angular and Node.js with Typescript**
 
 - 🤝 I’m looking to collaborate on **Java, Python and Node.js projects**
 
