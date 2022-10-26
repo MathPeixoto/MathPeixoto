@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Peixoto</h1>
 <h3 align="center">A passionate software engineer from Brazil</h3>
 
-- 🔭 I’m currently working on [Java projects at Neobpo](https://www.capgemini.com/us-en/)
+- 🔭 I’m currently working on [Java projects at Capgemini](https://www.capgemini.com/us-en/)
 
 - 🌱 I’m currently learning **React, Go and Node.js with Typescript**
 
