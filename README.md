@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matheus Peixoto</h1>
 <h3 align="center">A passionate software engineer from Brazil</h3>
 
-- 🔭 I’m currently working on [Computer Vision projects at Neobpo](https://neobpo.com.br/)
+- 🔭 I’m currently working on [Java projects at Neobpo](https://www.capgemini.com/us-en/)
 
-- 🌱 I’m currently learning **React, Angular and Node.js with Typescript**
+- 🌱 I’m currently learning **React, Go and Node.js with Typescript**
 
-- 🤝 I’m looking to collaborate on **Java, Python and Node.js projects**
+- 🤝 I’m looking to collaborate on **Java, Go and Node.js projects**
 
 - 💬 Ask me about **Java, Python, Vue, Artificial Intelligence, SQL, Microservices**
 
@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/matheus-peixoto-pires/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheus-peixoto-pires/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/user1625zq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user1625zq/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/matheus-peixoto-pires/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheus-peixoto-pires/" height="30" width="40" /></a>
+<a href="https://leetcode.com/user1625zq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user1625zq/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
