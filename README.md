@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Java projects at Capgemini](https://www.capgemini.com/us-en/)
 
-- 🌱 I’m currently learning **React, Go and Node.js with Typescript**
+- 🌱 I’m currently learning **Go and Node.js with Typescript**
 
-- 🤝 I’m looking to collaborate on **Java, Go and Node.js projects**
+- 🤝 I’m looking to collaborate on **Java, Go, Python and Node.js projects**
 
 - 💬 Ask me about **Java, Python, Vue, Artificial Intelligence, SQL, Microservices**
 
